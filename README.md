@@ -1,2 +1,9 @@
 # overthewire-bandit
 overthewire bandit progress
+
+level1: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+level2: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+level3: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+level4: xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+level5: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+level6: pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
