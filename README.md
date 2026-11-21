@@ -29,7 +29,7 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   <summary>SOLUTION</summary>
   
   ```strings data.txt | grep -i "==="```
-</details>
+</details>\
 
 
 **level11:** 
@@ -42,7 +42,7 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   <summary>SOLUTION</summary>
   
   ```base64 -d data.txt```
-</details>
+</details>\
 
 
 
@@ -55,4 +55,4 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   <summary>SOLUTION</summary>
   
   ``` ```
-</details>
+</details>\
