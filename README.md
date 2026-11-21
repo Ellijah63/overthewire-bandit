@@ -62,6 +62,23 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 <details>
   <summary>SOLUTION</summary>
   
+  ```
+   xxd -r
+   tar
+   gzip
+   bzip2
+  ```
+</details>
+
+### LEVEL 13:
+<details>
+  <summary>CODE</summary>
+  
+  ```qQYQiHOBPR8zR61qxYqX45quvihF2uzk```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
   ``` ```
 </details>
 
