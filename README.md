@@ -55,8 +55,6 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
   ```tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt```
 </details>
 
-<br>
-
 ### LEVEL 12:
 <details>
   <summary>CODE</summary>
@@ -68,6 +66,11 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
   
   ``` ```
 </details>
+
+
+
+
+<br>
 
 <details>
   <summary>CODE</summary>
