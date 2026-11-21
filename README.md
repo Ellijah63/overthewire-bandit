@@ -91,8 +91,11 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 <details>
   <summary>CODE</summary>
   
-  ```ssh -i bandit14_sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org```
-  ```aaWecNkG4FhxJQxz07uiwzVP6bJiYS65```
+  ```
+  ssh -i bandit14_sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
+  <br>
+  aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+  ```
 </details>
 <details>
   <summary>SOLUTION</summary>
