@@ -24,13 +24,13 @@ level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 
 **level11:** 
 <details>
-  <summary>Solution</summary>
+  <summary>CODE</summary>
   
   ```pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro```
 </details>
 
 <details>
-  <summary>Solution</summary>
+  <summary>SOLUTION</summary>
   
   ```base64 -d data.txt```
 </details>
