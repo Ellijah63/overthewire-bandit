@@ -22,35 +22,15 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 ``` strings data.txt | grep -i "===" ```
 
-level11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+**level11:** 
+<details>
+  <summary>Solution</summary>
+  
+  ```pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro```
+</details>
 <details>
   <summary>Solution</summary>
   
   ```base64 -d data.txt```
 </details>
 
-base64 -d data.txt
-
-
-
-
-
-<details>
-  <summary>Click to reveal text</summary>
-
-  This text is hidden until clicked. You can include **bold text**, lists, or code blocks here.
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-lvl11: ``` base64 -d data.txt ```
