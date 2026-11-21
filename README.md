@@ -19,8 +19,6 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 
 level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
-<br>
-
 ## level10:
 <details>
   <summary>CODE</summary>
@@ -33,8 +31,6 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   ```strings data.txt | grep -i "==="```
 </details>
 
-<br>
-
 ## level11: 
 <details>
   <summary>CODE</summary>
@@ -45,7 +41,7 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   <summary>SOLUTION</summary>
   
   ```base64 -d data.txt```
-</details>\
+</details>
 
 <br>
 
@@ -58,4 +54,4 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
   <summary>SOLUTION</summary>
   
   ``` ```
-</details>\
+</details>
