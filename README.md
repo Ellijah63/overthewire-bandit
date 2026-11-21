@@ -29,8 +29,6 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
   ```strings data.txt | grep -i "==="```
 </details>
 
-
-
 ### LEVEL 10:
 <details>
   <summary>CODE</summary>
