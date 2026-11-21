@@ -21,3 +21,6 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
 level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 ``` strings data.txt | grep -i "===" ```
+
+level11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+``` base64 -d data.txt ```
