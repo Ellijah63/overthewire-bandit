@@ -28,6 +28,7 @@ level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
   
   ```pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro```
 </details>
+
 <details>
   <summary>Solution</summary>
   
