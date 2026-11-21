@@ -19,18 +19,40 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 
 level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
-level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
-``` strings data.txt | grep -i "===" ```
+**level10:**
+<details>
+  <summary>CODE</summary>
+  
+  ```B0s2khmbT9u0geKuOoVGW3JZKhndE3BG```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
+  ```strings data.txt | grep -i "==="```
+</details>
+
 
 **level11:** 
-  <details>
-    <summary>CODE</summary>
+<details>
+  <summary>CODE</summary>
   
-    ```pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro```
-  </details>
-  <details>
-    <summary>SOLUTION</summary>
+  ```pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro```
+</details>
+<details>
+  <summary>SOLUTION</summary>
   
-    ```base64 -d data.txt```
-  </details>
+  ```base64 -d data.txt```
+</details>
 
+
+
+<details>
+  <summary>CODE</summary>
+  
+  ``` ```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
+  ``` ```
+</details>
