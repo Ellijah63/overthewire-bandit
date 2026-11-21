@@ -20,3 +20,4 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 
 level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+``` strings data.txt | grep -i "===" ```
