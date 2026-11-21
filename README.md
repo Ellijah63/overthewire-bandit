@@ -99,6 +99,24 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 <details>
   <summary>SOLUTION</summary>
   
+  ```
+  nc -zv localhost 30000
+  Connection to localhost (127.0.0.1) 30000 port [tcp/*] succeeded!
+  echo "aaWecNkG4FhxJQxz07uiwzVP6bJiYS65" | nc localhost 30000
+  ```
+</details>
+
+### LEVEL 15:
+<details>
+  <summary>CODE</summary>
+  
+  ```
+  pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+  ```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
   ``` ```
 </details>
 
