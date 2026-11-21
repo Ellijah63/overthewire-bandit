@@ -24,3 +24,27 @@ level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 
 level11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
 ``` base64 -d data.txt ```
+
+
+
+
+
+<details>
+  <summary>Click to reveal text</summary>
+
+  This text is hidden until clicked. You can include **bold text**, lists, or code blocks here.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+lvl11: ``` base64 -d data.txt ```
