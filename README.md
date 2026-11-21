@@ -79,10 +79,25 @@ level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 <details>
   <summary>SOLUTION</summary>
   
-  ``` ```
+  ```
+  Take private key from bandit and make private key file on host. Assign minimal privilege and attach it to ssh.
+  Can not ssh from bandit server has ssh from localhost to localhost has been disabled.
+  chmod 600 bandit14_sshkey.private 
+  ssh -i bandit14_sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
+  ```
 </details>
 
-
+### LEVEL 14:
+<details>
+  <summary>CODE</summary>
+  
+  ```ssh -i bandit14_sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
+  ``` ```
+</details>
 
 
 <br>
