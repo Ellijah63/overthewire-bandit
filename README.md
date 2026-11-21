@@ -17,7 +17,19 @@ level7: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
 
 level8: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 
-level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+### LEVEL 9: 
+<details>
+  <summary>CODE</summary>
+  
+  ```EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
+  ```strings data.txt | grep -i "==="```
+</details>
+
+
 
 ### LEVEL 10:
 <details>
@@ -28,7 +40,7 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 <details>
   <summary>SOLUTION</summary>
   
-  ```strings data.txt | grep -i "==="```
+  ```base64 -d data.txt```
 </details>
 
 ### LEVEL 11: 
@@ -40,10 +52,22 @@ level9: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 <details>
   <summary>SOLUTION</summary>
   
-  ```base64 -d data.txt```
+  ```tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt```
 </details>
 
 <br>
+
+### LEVEL 12:
+<details>
+  <summary>CODE</summary>
+  
+  ```GROozWPO8QyN0mGrjUkID0WCYkZiQxrN```
+</details>
+<details>
+  <summary>SOLUTION</summary>
+  
+  ``` ```
+</details>
 
 <details>
   <summary>CODE</summary>
