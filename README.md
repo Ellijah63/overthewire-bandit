@@ -23,7 +23,13 @@ level10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 ``` strings data.txt | grep -i "===" ```
 
 level11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
-``` base64 -d data.txt ```
+<details>
+  <summary>Solution</summary>
+  
+  ```base64 -d data.txt```
+</details>
+
+base64 -d data.txt
 
 
 
